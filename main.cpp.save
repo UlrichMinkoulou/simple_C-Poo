@@ -1,0 +1,12 @@
+#include <iostream>
+#include <string> 
+
+using namespace std;
+
+
+int main()
+{
+    string maChaine; //Creation d'un objet
+    //cout << "Guten Tag!\nMein Name ist ULRICH MINKOULOU. Ich bin sechsundzwanzig jahre alt und bin Ingenieur von Beruf" << endl;
+    return 0;
+}
